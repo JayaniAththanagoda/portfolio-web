@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-web/static/css/main.fcb2496d.css",
+    "main.js": "/portfolio-web/static/js/main.e983d2a4.js",
+    "static/media/jayani.png": "/portfolio-web/static/media/jayani.238fba2312181bf24911.png",
+    "static/media/instagram.png": "/portfolio-web/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/ui-design.png": "/portfolio-web/static/media/ui-design.eefb87c8be9653b54a00.png",
+    "static/media/frontend.png": "/portfolio-web/static/media/frontend.752eb41d55d9b892918a.png",
+    "static/media/backend.png": "/portfolio-web/static/media/backend.faf47c30539965ca7316.png",
+    "static/media/hireme.png": "/portfolio-web/static/media/hireme.077cca13a48ee5d274c4.png",
+    "static/media/logo.png": "/portfolio-web/static/media/logo.b676652ec9ad839bc328.png",
+    "static/media/youtube.png": "/portfolio-web/static/media/youtube.b4f2b64af1b614ce26dc.png",
+    "static/media/facebook.png": "/portfolio-web/static/media/facebook.4f037d961598aff2a0a4.png",
+    "index.html": "/portfolio-web/index.html",
+    "main.fcb2496d.css.map": "/portfolio-web/static/css/main.fcb2496d.css.map",
+    "main.e983d2a4.js.map": "/portfolio-web/static/js/main.e983d2a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcb2496d.css",
+    "static/js/main.e983d2a4.js"
+  ]
+}
