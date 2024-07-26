@@ -9,6 +9,9 @@
   flex-direction: column;
   justify-content: center;
   margin-top: 2rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 .contactForm {
   margin: 1rem;
@@ -42,6 +45,9 @@
 .socialContainer {
   display: flex;
   flex-wrap: wrap;
+  padding: 1rem;
+  font-size: medium;
+  font-weight: 300;
 }
 .link {
   object-fit: cover;
