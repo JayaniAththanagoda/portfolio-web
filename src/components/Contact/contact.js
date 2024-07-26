@@ -53,7 +53,7 @@ const Contact = () => {
           <button type="submit" value="sent" className="submitBtn">
             submit
           </button>
-          <div className="link">
+          <div className="socialContainer">
             <img src={FacebookIcon} alt="Facebook" className="link" />
             <img src={YoutubeIcon} alt="Youtube" className="link" />
             <img src={InstagramIcon} alt="Instagram" className="link" />
