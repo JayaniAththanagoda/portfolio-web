@@ -3,7 +3,13 @@
   font-size: medium;
   font-weight: 300;
 }
-
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 2rem;
+}
 .contactForm {
   margin: 1rem;
   display: flex;
