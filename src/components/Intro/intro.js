@@ -16,7 +16,9 @@ const Intro = () => {
         </span>
         <p className="intropara">
           {" "}
-          Passionate software engineer with a knack for solving complex problems and a love for creating innovative solutions. Dedicated to continuous learning and delivering high-quality work.
+          Passionate software engineer with a knack for solving complex problems
+          and a love for creating innovative solutions. <br />
+          Dedicated to continuous learning and delivering high-quality work.
         </p>
         <Link>
           <button className="btn">
